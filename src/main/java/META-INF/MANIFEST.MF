@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Class-Path: jsoup-1.6.1.jar mongo.jar mysql-jdbc.jar selendroid-grid-p
+ lugin-0.16.0.jar selendroid-standalone-0.16.0-with-dependencies.jar s
+ elenium-java-2.12.0.jar selenium-server-standalone-2.47.1.jar
+Main-Class: yun.run.TestSougouIndexSpider
+
